@@ -1,2 +1,23 @@
-# vizagorthodoctor.com
-Dr Bandela Manoranjan is a highly experienced orthopedic surgeon in Visakhapatnam, specializing in joint replacement, trauma care, spine disorders, and sports injuries. With a patient-centered approach and advanced surgical techniques, he provides comprehensive orthopedic care at Kushi Ortho Clinic.
+# janaxestar.github.io
+<img src="https://t.bkit.co/w_642303c4d4e44.gif" />
+# Dr. B Manoranjan - Orthopedic Surgeon Website
+
+Professional website for Dr. B Manoranjan, Consultant Orthopedic & Joint Replacement Surgeon in Visakhapatnam.
+
+## Features
+- Responsive design
+- Service showcase
+- Patient testimonials
+- Contact information
+- Appointment booking
+
+## Technologies
+- Bootstrap 5
+- jQuery
+- HTML5/CSS3
+
+## Deployment
+This website can be deployed to any static hosting service like:
+- GitHub Pages
+- Netlify
+- Vercel
